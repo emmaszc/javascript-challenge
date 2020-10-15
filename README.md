@@ -1,3 +1,3 @@
 # javascript-challenge
 
-This project analyzes javascript to analyze a set of UFO sightings on a website with interactivity. 
+This project uses javascript to analyze a set of UFO sightings on a website with interactivity. 
